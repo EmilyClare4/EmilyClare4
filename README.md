@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Emily
 - ✨ Creative soul with a passion for logical problem solving
 - 👀 I’m interested in programming, computer graphics, photography and walking my dog
-- 🌱 I’m currently studying a Bachelor in Computer Science, with a view to Minor in Games Programming
+- 🌱 I’m learning everything I can about C++, as well as Danish as a second language
 - 💞️ I’m looking to collaborate on anything creative!
 
 <!---
