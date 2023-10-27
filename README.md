@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Emily
 - ✨ I'm a creative soul with a passion for logical problem solving
-- 👀 I’m interested in programming, photography and walking my dog
+- 👀 I’m interested in software development and UX/UI Design
 - 🌱 I’m learning everything I can about Computer Science
-- 💞️ I’m looking to improve my programming skills with some side projects
+- 🔨 Working on building my portfolio
 
 <!---
 EmilyClare4/EmilyClare4 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
